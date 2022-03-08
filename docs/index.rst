@@ -25,7 +25,7 @@ Setelah berkenalan dengan beberapa WhatsApp MOD di atas, Anda tentu penasaran de
 
 1. GBWhatsApp
 
-Fitur-fitur WA MOD pertama adalah dari `GBWhatsApp (GB WA) <https://www.osrepublik.com/download-gb-whatsapp-terbaru/>`_ ya. Jika Anda perhatikan, aplikasi satu ini adalah WA MOD yang nyaris sama seperti WhatsApp Plus. Hal ini karena keduanya mempunyai banyak fitur menarik. Dengan menggunakan versi terbarunya, atau versi V3.6.2, Anda bisa tetap online tapi tidak terlihat online loh. Alias, bisa menyembunyikan status Anda yang tengah online. Aplikasi keren ini dapat digunakan pada ponsel apapun. Adapun fitur menariknya adalah:
+Fitur-fitur WA MOD pertama adalah dari `GB WhatsApp (GB WA) <https://news.google.com/articles/CAIiEDPhkDFSITlt-Ce-wii_S98qGQgEKhAIACoHCAow38imCzDH074DMOufkAc?uo=CAUiSmh0dHBzOi8vd3d3LnNlYnVhaHV0YXMuY29tLzIwMjIvMDIvZ2Itd2EtcHJvLWFway1nYi13aGF0c2FwcC1vZmZpY2lhbC5odG1s0gEA&hl=en-ID&gl=ID&ceid=ID%3Aen>`_ ya. Jika Anda perhatikan, aplikasi satu ini adalah WA MOD yang nyaris sama seperti WhatsApp Plus. Hal ini karena keduanya mempunyai banyak fitur menarik. Dengan menggunakan versi terbarunya, atau versi V3.6.2, Anda bisa tetap online tapi tidak terlihat online loh. Alias, bisa menyembunyikan status Anda yang tengah online. Aplikasi keren ini dapat digunakan pada ponsel apapun. Adapun fitur menariknya adalah:
 
 - Memungkinkan Anda untuk mengirimkan foto langsung sejumlah 75 lebih hanya dalam satu kali kirim.
 - Ada berbagai opsi bahasa yang dapat Anda pilih sesuai keinginan dan kebutuhan.
@@ -61,13 +61,13 @@ Link Download WA MOD
 
 Bagaimana, menarik kan? Nah, jika Anda tertarik, Anda dapat mendownload beberapa aplikasi WA MOD  lewat link di bawah. Kami sudah menyediakan 7 link yang dapat Anda pilih:
 
-1. `Download GBWhatsApp APK Terbaru September 2021 <https://www.autobild.co.id/2021/08/download-gbwhatsapp-heymods-dan-gb-wa.html>`_
+1. Download GBWhatsApp APK Terbaru
 2. `Download Fouad WhatsApp APK <https://www.sebuahutas.com/2021/08/download-fouad-whatsapp-fm-wa-apk.html>`_ 
 3. `Download WhatsApp APK Mod & Official Terbaru <https://www.sebuahutas.com/2021/08/link-download-whatsapp-mod-apk-terbaru.html>`_
-4. `WhatsApp Plus APK <https://www.autobild.co.id/2021/08/download-whatsapp-wa-plus-apk-versi.html>`_
+4. `WhatsApp Plus APK
 5. WhatsApp Transparan
 6. WhatsApp Clone 
-7. `Fouad WhatsApp APK <https://www.technolati.com/2021/08/download-fouad-whatsapp-893-apk-terbaru.html>`_
+7. `Fouad WhatsApp APK
  
 Cara Install WA MOD di HP
 ==================
@@ -86,7 +86,7 @@ Jika sudah download aplikasinya, kini saatnya Anda menginstal. Caranya gampang k
 10. Klik install.
 11. Tunggu hingga selesai.
 
-Gimana, gampang kan? Nggak sesulit yang Anda bayangkan.
+Gimana, gampang kan? Nggak sesulit yang Anda bayangkan. Baca selengkapnya mengenai cara pasang wa mod di artikel dari Blogs ITB berikut: https://blogs.itb.ac.id/tech/cara-install-whatsapp-modifikasi-di-hp-android-versi-terbaru/
 
 Risiko dan Kekurangan menggunakan WA MOD
 ========================================
