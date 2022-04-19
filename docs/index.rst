@@ -8,10 +8,10 @@ Apa Itu WhatsApp Mod APK
 
 Lambat laun, banyak masyarakat yang menggunakan WhatsApp Mod. Hal ini karena ada berbagai macam keunggulan yang ditawarkannya. Sekilas, WA ori dengan WA MOD memang terlihat sama. Karena sama-sama menggunakan nama 'WA' pada produk yang ditawarkan. Padahal, keduanya adalah aplikasi yang diciptakan oleh develop yang berbeda loh. Nah, bagi Anda yang belum tahu apa itu WA MOD, yuk simak penjelasan lengkap berikut. Agar Anda bisa menentukan, apakah akan menggunakannya ke depan atau tidak.
 
-> Link Download WhatsApp Mod WA APK Terbaru: https://www.sebuahutas.com/2021/12/download-whatsapp-mod-wa-apk-versi.html
+- Link Download WhatsApp Mod WA APK Terbaru: https://www.sebuahutas.com/2022/02/wa-mod-apk-terbaru-whatsapp-mod.html
 
 Pengertian WA MOD
-==================
+---------------------
 
 WhatsApp mod merupakan aplikasi berkirim pesan versi modifikasi aplikasi WA yang asli atau yang ori. Di mana, ada berbagai bagian yang dimodifikasi oleh develop WA MOD. Hal inilah yang membuat WA MOD mulai banyak dilirik dan digunakan oleh masyarakat. Fitur-fitur yang ditawarkannya tentu lebih unggul daripada fitur di WA Original. Seperti fitur untuk mengirimkan file dengan ukuran lebih besar, temanya lebih banyak, dan lain sebagainya. Hal yang paling menarik adalah, aplikasi WA MOD ini bukan hanya ada satu loh. Bahkan, jika Anda mengikuti perkembangannya, Anda akan menemukan ada lebih dari 15 WA MOD dengan berbagai versi, dan develop yang berbeda-beda. Berikut ini adalah beberapa versi WA modifikaso beserta developernya.
 
@@ -20,7 +20,8 @@ WhatsApp mod merupakan aplikasi berkirim pesan versi modifikasi aplikasi WA yang
 3. Fouad WhatsApp: Di Indonesia, banyak masyarakat yang menggunakan WA MOD satu ini. Hal ini karena tampilannya yang keren, beserta fitur-fiturnya yang sangat mudah dipahami. Ia dikembangkan oleh Fouad Mokdad.
 
 Fitur-fitur WA Mod
-==================
+---------------------
+
 Setelah berkenalan dengan beberapa WhatsApp MOD di atas, Anda tentu penasaran dengan fitur-fitur menarik yang ditawarkannya kan? Buat yang penasaran, berikut adalah fitur masing-masing WA MOD tersebut.
 
 1. GBWhatsApp
@@ -57,20 +58,20 @@ Bagi Anda yang memiliki kapasitas penyimpanan terbatas, maka aplikasi WA MOD sat
 - Tersedia fitur ganti nadad dering seperti `sound of text wa <https://whitepaper.co.id/cara-sound-of-text-di-whatsapp/>`_
 
 Link Download WA MOD
-==================
+---------------------
 
 Bagaimana, menarik kan? Nah, jika Anda tertarik, Anda dapat mendownload beberapa aplikasi WA MOD  lewat link di bawah. Kami sudah menyediakan 7 link yang dapat Anda pilih:
 
 1. Download GBWhatsApp APK Terbaru
-2. `Download Fouad WhatsApp APK <https://www.sebuahutas.com/2021/08/download-fouad-whatsapp-fm-wa-apk.html>`_ 
-3. `Download WhatsApp APK Mod & Official Terbaru <https://www.sebuahutas.com/2021/08/link-download-whatsapp-mod-apk-terbaru.html>`_
+2. `Download Fouad WhatsApp APK <https://www.sebuahutas.com/2022/02/fouad-whatsapp-921-apk-update-terbaru.html>`_ 
+3. `Download WhatsApp Mod iOS <https://www.sebuahutas.com/2022/02/whatsapp-ios-mod-apk-wa-iphone-for.html>`_
 4. `WhatsApp Plus APK
 5. WhatsApp Transparan
 6. WhatsApp Clone 
 7. `Fouad WhatsApp APK
  
 Cara Install WA MOD di HP
-==================
+---------------------
 
 Jika sudah download aplikasinya, kini saatnya Anda menginstal. Caranya gampang kok:
 
@@ -89,12 +90,12 @@ Jika sudah download aplikasinya, kini saatnya Anda menginstal. Caranya gampang k
 Gimana, gampang kan? Nggak sesulit yang Anda bayangkan. Baca selengkapnya mengenai cara pasang wa mod di artikel dari Blogs ITB berikut: https://blogs.itb.ac.id/tech/cara-install-whatsapp-modifikasi-di-hp-android-versi-terbaru/
 
 Risiko dan Kekurangan menggunakan WA MOD
-========================================
+---------------------
 
 Berhubung aplikasi ini adalah aplikasi pihak ketiga yang memodifikasi aplikasi utama, wajar jika terdapat beberapa risiko dan juga kekurangan ketika menggunakannya. Adapun risiko dan kekurangan menggunakan WA MOD ialah sulit update, rawan banned, dan cepat kadaluarsa. Karena memang, semua aplikasi modifikasi pasti risiko terkena banned. Sehingga, ketika sudah terbanned, maka WA Anda bisa hilang loh. Oleh karena itu, akan lebih bijak jika Anda tidak menjadikan WA MOD sebagai WA utama.
 
 Tanya Jawab Seputar WA MOD
-=========================
+---------------------
 
 Biar lebih paham, yuk simak beberapa pertanyaan dan ulasannya berikut.
 
@@ -124,3 +125,12 @@ Nah, karena semua akun WA MOD mengalami kemungkinan terkena banned, bagaimana ca
 5. Aplikasi WA mod siap digunakan.
 
 Demikian seputar WA MOD yang meski Anda perhatikan. Semoga bermanfaat.
+
+Contents
+-----------------
+
+.. toctree::
+   :maxdepth: 2
+
+   style-guide
+   nada-dering/index
