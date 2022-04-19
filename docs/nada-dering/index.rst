@@ -86,6 +86,7 @@ Untuk menggunakannya, kamu bisa mengikuti beberapa tutorial berikut dan ini khus
 
 Jadi cara download nada dering pendek ini dapat kamu lakukan dengan langkah-langkah mudah seperti diatas. Kamu bisa memilih dari situs MP3Juices, Youtube atau dari link download yang sudah tersedia itu.
 
-Referensi:
+**Referensi:**
+
 - `Buat nada dering dengan sound of text Jawa <https://www.technolati.com/2022/04/3-sound-of-text-jawa-di-wa-menggunakan.html>`_
 - `Karinov.co.id <https://karinov.co.id>`_
