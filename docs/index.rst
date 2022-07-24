@@ -134,3 +134,4 @@ Contents
 
    style-guide
    nada-dering/index
+   privasi-status/index
